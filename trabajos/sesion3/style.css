@@ -1,0 +1,56 @@
+table{
+    border: 1px solid black;
+}
+
+table td{
+    border: 1px solid black;
+}
+
+.red{
+    background-color: red;
+}
+
+.brown{
+    background-color: brown;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.pink{
+    background-color: pink;
+}
+
+.purple{
+    background-color: purple;
+}
+
+.green{
+    background-color: green;
+}
+
+.violet{
+    background-color: violet;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.gray{
+    background-color: gray;
+}
+
+.turquoise{
+    background-color: turquoise;
+}
+
+.black{
+    background-color: black;
+    color: white;
+}
